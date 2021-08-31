@@ -1,3 +1,10 @@
+<img align="cemter" alt="Jeremiahiro's GitHub Stats" src="https://media-exp1.licdn.com/dms/image/C4E16AQHt8SZPlN_T3Q/profile-displaybackgroundimage-shrink_200_800/0/1629461570839?e=1635984000&v=beta&t=1mnIHL8Qh4oDpZEvSEcNtpxHUTGbYpMS0tGFTuQumbo" />
+
+<br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahiro)](https://github.com/jeremiahiro/github-readme-stats)
+
 [![Jeremiahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahiro&show_icons=true&theme=synthwave)](https://github.com/jeremiahiro/github-readme-stats)
 
 ### Hi there, I'm [Jeremiah Iro][portfolio] 👋
@@ -49,7 +56,7 @@ Nice to meet you!
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jeremiahiro's GitHub Stats" src="https://media-exp1.licdn.com/dms/image/C4E16AQHt8SZPlN_T3Q/profile-displaybackgroundimage-shrink_200_800/0/1629461570839?e=1635984000&v=beta&t=1mnIHL8Qh4oDpZEvSEcNtpxHUTGbYpMS0tGFTuQumbo" />
+  
 
 </details>
 
