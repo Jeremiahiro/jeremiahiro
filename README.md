@@ -22,8 +22,6 @@ Nice to meet you!
 - 🎩 I am passionate about education, research, technology and the immense transformation power they hold
 - ⚡ Fun fact: I love to ...
 
-
-
 ### ⚡ Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
@@ -50,7 +48,7 @@ Nice to meet you!
 <br />
 
 ****
-#### **💬** Connect with me:
+#### **💬** Connect with me: 
 
 [<img align="left" alt="Jeremiahiro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jeremiahiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -58,10 +56,12 @@ Nice to meet you!
 [<img align="left" alt="Jeremiahiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+<br />
+
+![](https://komarev.com/ghpvc/?username=jeremiahiro)
 
 ****
 <br />
----
 
 
 [twitter]: https://twitter.com/JeremiahIro
