@@ -43,11 +43,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. 🎉 Merged PR [#3](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/3) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
+2. 💪 Opened PR [#3](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/3) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
+3. 🎉 Merged PR [#1](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/1) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
+4. 🎉 Merged PR [#2](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/2) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
+5. 💪 Opened PR [#2](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/2) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
 <!--END_SECTION:activity-->
 
 </details>
