@@ -38,19 +38,7 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/3) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
-2. 💪 Opened PR [#3](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/3) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
-3. 🎉 Merged PR [#1](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/1) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
-4. 🎉 Merged PR [#2](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/2) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
-5. 💪 Opened PR [#2](https://github.com/Jeremiahiro/alx-system_engineering-devops/pull/2) in [Jeremiahiro/alx-system_engineering-devops](https://github.com/Jeremiahiro/alx-system_engineering-devops)
-<!--END_SECTION:activity-->
-
-</details>
+[![Jeremiahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahiro)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
