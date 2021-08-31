@@ -1,72 +1,30 @@
-# Two columns
-
-Below is a Div containing three child Divs side by side. The Div
-in the middle is empty, just to add more space between the left
-and right Divs.
-
-:::::: {.cols data-latex=""}
-
-::: {.col data-latex="{0.55\textwidth}"}
-```{r, echo=FALSE, fig.width=5, fig.height=4}
-par(mar = c(4, 4, .2, .1))
-plot(cars, pch = 19)
-```
-:::
-
-::: {.col data-latex="{0.05\textwidth}"}
-\ 
-<!-- an empty Div (with a white space), serving as
-a column separator -->
-:::
-
-::: {.col data-latex="{0.4\textwidth}"}
-The figure on the left-hand side shows the `cars` data.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur.
-:::
-::::::
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+****
 <img align="cemter" alt="Jeremiahiro's GitHub Stats" src="https://media-exp1.licdn.com/dms/image/C4E16AQHt8SZPlN_T3Q/profile-displaybackgroundimage-shrink_200_800/0/1629461570839?e=1635984000&v=beta&t=1mnIHL8Qh4oDpZEvSEcNtpxHUTGbYpMS0tGFTuQumbo" />
 
-<br/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahiro)](https://github.com/jeremiahiro/github-readme-stats)
-
-[![Jeremiahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahiro&show_icons=true&theme=synthwave)](https://github.com/jeremiahiro/github-readme-stats)
-
+****
 ### Hi there, I'm [Jeremiah Iro][portfolio] 👋
 
 Nice to meet you!
 
-## I'm a Developer, Researcher, Teacher, Husband and Father!!
+<br />
+
+![Jeremiahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahiro&show_icons=true&theme=synthwave)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahiro&theme=synthwave&langs_count=4)
+
+
+### I am a Developer, Researcher, Teacher, Husband and Father!
 
 - 🌱 I’m currently learning blockchain  🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 🎩 I am passionate about education, research, technology and the immense transformation power they hold
 - ⚡ Fun fact: I love to ...
 
-### :zap: Languages and Tools:
+
+
+### ⚡ Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][portfolio]
@@ -89,24 +47,22 @@ Nice to meet you!
 
 <br />
 <br />
+<br />
 
-### :zap: Connect with me:
+****
+#### **💬** Connect with me:
 
 [<img align="left" alt="Jeremiahiro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jeremiahiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jeremiahiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Jeremiahiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
+<br />
+
+****
 <br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  
-
-</details>
 
 [twitter]: https://twitter.com/JeremiahIro
 [portfolio]: https://jeremiahiro.github.io
