@@ -4,7 +4,7 @@
 
 Nice to meet you!
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, Researcher, Teacher, Husband and Father!!
 
 - 🌱 I’m currently learning blockchain  🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -42,13 +42,14 @@ Nice to meet you!
 [<img align="left" alt="Jeremiahiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Jeremiahiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
 <br />
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jeremiahiro's GitHub Stats" src=https://media-exp1.licdn.com/dms/image/C4E16AQHt8SZPlN_T3Q/profile-displaybackgroundimage-shrink_200_800/0/1629461570839?e=1635984000&v=beta&t=1mnIHL8Qh4oDpZEvSEcNtpxHUTGbYpMS0tGFTuQumbo" />
+  <img align="left" alt="Jeremiahiro's GitHub Stats" src="https://media-exp1.licdn.com/dms/image/C4E16AQHt8SZPlN_T3Q/profile-displaybackgroundimage-shrink_200_800/0/1629461570839?e=1635984000&v=beta&t=1mnIHL8Qh4oDpZEvSEcNtpxHUTGbYpMS0tGFTuQumbo" />
 
 </details>
 
