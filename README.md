@@ -8,7 +8,7 @@ Nice to meet you!
 
 <br />
 
-![Jeremiahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahiro&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahiro&show_icons=true&theme=synthwave)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahiro&theme=synthwave&langs_count=4)
