@@ -17,13 +17,11 @@ Nice to meet you!
 ### I am a Developer, Researcher, Teacher, Husband and Father!
 
 - 🌱 I’m currently learning blockchain  🤣
+- 👨‍🏫 I write and teach PHP, JavaScript, ...
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 🎩 I am passionate about education, research, technology and the immense transformation power they hold.
 - ⚡ Fun fact: I love research
-
-<div align="justify">
-I am passionate about education, research, technology, and the immense transformative power they hold. I write and teach PHP, & JavaScript.  Tools I've used include but are not limited to GitHub, Docker, Adobe XD, Figma Vue JS, Nuxt JS, React JS, Linux, Laravel, Graph QL, MySQL, IBM SPSS, etc. In addition, I’m currently learning Blockchain.
-</div>
 
 ### ⚡ Languages and Tools:
 
