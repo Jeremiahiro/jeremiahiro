@@ -1,5 +1,5 @@
 ****
-<img align="cemter" alt="Jeremiahiro's GitHub Stats" src="https://media-exp1.licdn.com/dms/image/C4E16AQHt8SZPlN_T3Q/profile-displaybackgroundimage-shrink_200_800/0/1629461570839?e=1635984000&v=beta&t=1mnIHL8Qh4oDpZEvSEcNtpxHUTGbYpMS0tGFTuQumbo" />
+<img align="cemter" alt="Jeremiahiro's GitHub Stats" src="https://media-exp1.licdn.com/dms/image/C4E16AQFwH1rRkcsVwA/profile-displaybackgroundimage-shrink_350_1400/0/1643096899615?e=1655337600&v=beta&t=GyGI3Fz3S6mV-9YIPaWK1mn4PJ9uOCF-UUIstXhwpug" />
 
 ****
 ### Hi there, I'm [Jeremiah Iro][portfolio] 👋
