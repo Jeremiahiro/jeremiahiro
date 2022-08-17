@@ -32,7 +32,7 @@ Nice to meet you!
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
 [<img align="left" alt="Vue" width="26px" src="https://icon2.cleanpng.com/20180407/gse/kisspng-vue-js-javascript-framework-front-and-back-ends-gi-technical-5ac9109e6cb7f5.5357905715231264304453.jpg" />][portfolio]
-[<img align="left" alt="Nuxt" width="26px" src="https://commons.wikimedia.org/wiki/File:Nuxt_logo.svg" />][portfolio]
+[<img align="left" alt="Nuxt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" />][portfolio]
 [<img align="left" alt="Laravel" width="26px" src="https://icon2.cleanpng.com/20180612/bwx/kisspng-laravel-software-framework-php-web-framework-model-framework-5b1fe07defd611.2274502615288157419824.jpg" />][portfolio]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][portfolio]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][portfolio]
