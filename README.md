@@ -32,7 +32,7 @@ Nice to meet you!
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
 [<img align="left" alt="Vue" width="26px" src="https://icon2.cleanpng.com/20180407/gse/kisspng-vue-js-javascript-framework-front-and-back-ends-gi-technical-5ac9109e6cb7f5.5357905715231264304453.jpg" />][portfolio]
-[<img align="left" alt="Nuxt" width="26px" src="https://i2.wp.com/ansidev.cloudaccess.host/wp-content/uploads/2019/04/nuxtjs.png?fit=307%2C307&ssl=1" />][portfolio]
+[<img align="left" alt="Nuxt" width="26px" src="https://commons.wikimedia.org/wiki/File:Nuxt_logo.svg" />][portfolio]
 [<img align="left" alt="Laravel" width="26px" src="https://icon2.cleanpng.com/20180612/bwx/kisspng-laravel-software-framework-php-web-framework-model-framework-5b1fe07defd611.2274502615288157419824.jpg" />][portfolio]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][portfolio]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][portfolio]
@@ -41,7 +41,7 @@ Nice to meet you!
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][portfolio]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
-[<img align="left" alt="GitLab" width="26px" src="https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-gray-stacked-rgb.jpg" />][portfolio]
+[<img align="left" alt="GitLab" width="26px" src="https://1000logos.net/gitlab-logo/" />][portfolio]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
 
 <br />
