@@ -65,7 +65,7 @@ Nice to meet you!
 <br />
 
 
-[twitter]: https://twitter.com/jeremaihiro_
+[twitter]: https://twitter.com/jeremiahiro_
 [portfolio]: https://jeremiahiro.github.io
 [facebook]: https://facebook.com/jeremiahiro
 [instagram]: https://instagram.com/jeremiahiro_
