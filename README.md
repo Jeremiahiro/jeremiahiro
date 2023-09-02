@@ -16,12 +16,12 @@ Nice to meet you!
 
 ### I am a seasoned Developer, Researcher, Teacher, devoted Husband, and a ...! 
 
-🌱 Currently, I'm immersed in the fascinating world of AI, exploring its intricate depths. 🤣
-👨‍🏫 My professional journey revolves around writing and teaching, with a strong focus on PHP, & JavaScript. I am passionate about sharing knowledge and empowering others.
-👯 I'm always open to exciting collaborations with fellow content creators who share my enthusiasm for education and technology.
-🥅 My 2023 Goals include a deep commitment to contributing more to Open Source projects, further enriching the tech community with my expertise.
-🎩 Education, research, and technology are my life's driving forces, and I firmly believe in their transformative power.
-⚡ A little-known fact about me: I have an insatiable love for research, constantly seeking new horizons and breakthroughs.
+- 🌱 Currently, I'm immersed in the fascinating world of AI, exploring its intricate depths. 🤣
+- 👨‍🏫 My professional journey revolves around writing and teaching, with a strong focus on PHP, & JavaScript. I am passionate about sharing knowledge and empowering others.
+- 👯 I'm always open to exciting collaborations with fellow content creators who share my enthusiasm for education and technology.
+- 🥅 My 2023 Goals include a deep commitment to contributing more to Open Source projects, further enriching the tech community with my expertise.
+- 🎩 Education, research, and technology are my life's driving forces, and I firmly believe in their transformative power.
+- ⚡ A little-known fact about me: I have an insatiable love for research, constantly seeking new horizons and breakthroughs.
 
 
 ### Languages and Tools:
