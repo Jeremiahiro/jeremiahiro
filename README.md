@@ -14,16 +14,17 @@ Nice to meet you!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahiro&theme=synthwave&langs_count=4)
 
 
-### I am a Developer, Researcher, Teacher, Husband and Father!
+### I am a seasoned Developer, Researcher, Teacher, devoted Husband, and a ...! 
 
-- 🌱 I’m currently learning blockchain  🤣
-- 👨‍🏫 I write and teach PHP, JavaScript, ...
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🎩 I am passionate about education, research, technology and the immense transformation power they hold.
-- ⚡ Fun fact: I love research
+🌱 Currently, I'm immersed in the fascinating world of AI, exploring its intricate depths. 🤣
+👨‍🏫 My professional journey revolves around writing and teaching, with a strong focus on PHP, & JavaScript. I am passionate about sharing knowledge and empowering others.
+👯 I'm always open to exciting collaborations with fellow content creators who share my enthusiasm for education and technology.
+🥅 My 2023 Goals include a deep commitment to contributing more to Open Source projects, further enriching the tech community with my expertise.
+🎩 Education, research, and technology are my life's driving forces, and I firmly believe in their transformative power.
+⚡ A little-known fact about me: I have an insatiable love for research, constantly seeking new horizons and breakthroughs.
 
-### ⚡ Languages and Tools:
+
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][portfolio]
