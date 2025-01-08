@@ -1,5 +1,5 @@
 ****
-!![Cover Image](https://github.com/user-attachments/assets/0bb1580f-f25b-4cfd-af78-ba62fbb987c1)
+![Cover Image](https://github.com/user-attachments/assets/0bb1580f-f25b-4cfd-af78-ba62fbb987c1)
 
 ****
 ### Hi there, I'm [Jeremiah Iro][portfolio] 👋
