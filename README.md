@@ -1,5 +1,5 @@
 ****
-![image](https://user-images.githubusercontent.com/34809759/212420815-fd99d9f4-19e1-4a57-9c46-3bc8f2180614.png)
+!![Cover Image](https://github.com/user-attachments/assets/0bb1580f-f25b-4cfd-af78-ba62fbb987c1)
 
 ****
 ### Hi there, I'm [Jeremiah Iro][portfolio] 👋
@@ -14,7 +14,7 @@ Nice to meet you!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahiro&theme=synthwave&langs_count=4)
 
 
-### Full Stack Software Engineer with nearly seven (7) years of rock-solid engineering and IT consulting experinece. 
+### Full Stack Software Engineer with 7+ years of rock-solid engineering and IT consulting experinece. 
 
 - 👯 Always open to collaborations.
 - 🥅 Commitment to contributing more to Open Source projects.
