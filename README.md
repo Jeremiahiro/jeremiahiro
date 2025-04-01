@@ -8,16 +8,11 @@ Nice to meet you!
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats-mocha-iota-20.vercel.app/api?username=jeremiahiro&show_icons=true&theme=merko&hide=contribs,issues,stars&show=prs_merged,prs_merged_percentage,reviews" width="45%" />
-  <img src="https://github-readme-stats-mocha-iota-20.vercel.app/api/wakatime?username=@jeremiahiro&theme=merko&hide=toml&display_format=percent" width="45%" />
-</p>
+![](https://github-readme-stats-mocha-iota-20.vercel.app/api?username=jeremiahiro&show_icons=true&theme=merko&hide=contribs,issues,stars&show=prs_merged,prs_merged_percentage,reviews)
 
-<p align="center">
-  <img src="https://github-readme-stats-mocha-iota-20.vercel.app/api/top-langs/?username=jeremiahiro&theme=merko&exclude_repo=github-readme-stats,jeremiahiro.github.io&layout=pie&hide=less&langs_count=8" width="45%" />
-</p>
+![](https://github-readme-stats-mocha-iota-20.vercel.app/api/wakatime?username=@jeremiahiro&theme=merko&hide=toml&display_format=percent)
 
-
+![](https://github-readme-stats-mocha-iota-20.vercel.app/api/top-langs/?username=jeremiahiro&theme=merko&exclude_repo=github-readme-stats,jeremiahiro.github.io&layout=pie&hide=less&langs_count=8)
 
 ### 🚀 Software Engineer | Mentor | Servant Leader
 With 7+ years of experience, I specialize in building scalable web solutions, high-performance applications, and seamless digital experiences.
@@ -27,12 +22,7 @@ With 7+ years of experience, I specialize in building scalable web solutions, hi
 - 🌍 Driving tech education and community growth through mentorship
 - 💡 Exploring the intersection of AI, cloud computing, and software engineering
 
-<div style="display: flex; align-items: center; gap: 8px">
-    <h3>🤝 Let's Connect!</h3>
-    <a href="https://linkedin.com/in/jeremiahiro" style="margin-block-start: 10px;"> <svg title="linkedIn" width="22" viewBox="0 -2 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>LinkedIn-color</title> <desc>Created with Sketch.</desc> <defs> </defs> <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Color-" transform="translate(-702.000000, -265.000000)" fill="#007EBB"> <path d="M746,305 L736.2754,305 L736.2754,290.9384 C736.2754,287.257796 734.754233,284.74515 731.409219,284.74515 C728.850659,284.74515 727.427799,286.440738 726.765522,288.074854 C726.517168,288.661395 726.555974,289.478453 726.555974,290.295511 L726.555974,305 L716.921919,305 C716.921919,305 717.046096,280.091247 716.921919,277.827047 L726.555974,277.827047 L726.555974,282.091631 C727.125118,280.226996 730.203669,277.565794 735.116416,277.565794 C741.21143,277.565794 746,281.474355 746,289.890824 L746,305 L746,305 Z M707.17921,274.428187 L707.117121,274.428187 C704.0127,274.428187 702,272.350964 702,269.717936 C702,267.033681 704.072201,265 707.238711,265 C710.402634,265 712.348071,267.028559 712.41016,269.710252 C712.41016,272.34328 710.402634,274.428187 707.17921,274.428187 L707.17921,274.428187 L707.17921,274.428187 Z M703.109831,277.827047 L711.685795,277.827047 L711.685795,305 L703.109831,305 L703.109831,277.827047 L703.109831,277.827047 Z" id="LinkedIn"> </path> </g> </g> </g></svg> </a>
-    <a href="https://jeremiahiro.github.io/" style="margin-block-start: 10px;"><span>💼</span></a>
-</div>
-
+### 🤝 Let's Connect! [<svg title="linkedIn" width="22" viewBox="0 -2 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>LinkedIn-color</title> <desc>Created with Sketch.</desc> <defs> </defs> <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Color-" transform="translate(-702.000000, -265.000000)" fill="#007EBB"> <path d="M746,305 L736.2754,305 L736.2754,290.9384 C736.2754,287.257796 734.754233,284.74515 731.409219,284.74515 C728.850659,284.74515 727.427799,286.440738 726.765522,288.074854 C726.517168,288.661395 726.555974,289.478453 726.555974,290.295511 L726.555974,305 L716.921919,305 C716.921919,305 717.046096,280.091247 716.921919,277.827047 L726.555974,277.827047 L726.555974,282.091631 C727.125118,280.226996 730.203669,277.565794 735.116416,277.565794 C741.21143,277.565794 746,281.474355 746,289.890824 L746,305 L746,305 Z M707.17921,274.428187 L707.117121,274.428187 C704.0127,274.428187 702,272.350964 702,269.717936 C702,267.033681 704.072201,265 707.238711,265 C710.402634,265 712.348071,267.028559 712.41016,269.710252 C712.41016,272.34328 710.402634,274.428187 707.17921,274.428187 L707.17921,274.428187 L707.17921,274.428187 Z M703.109831,277.827047 L711.685795,277.827047 L711.685795,305 L703.109831,305 L703.109831,277.827047 L703.109831,277.827047 Z" id="LinkedIn"> </path> </g> </g> </g></svg>](https://linkedin.com/in/jeremiahiro) [💼](https://jeremiahiro.github.io/)
 - 👯 Always open to collaborations
 - 🥅 Committed to contributing more to Open Source projects
 - 🎯 Passionate about leveraging technology for social good
