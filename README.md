@@ -101,7 +101,7 @@ With 7+ years of experience, I specialize in building scalable web solutions, hi
 [<img align="middle" title="Cloudflare" width="22px" src="https://www.svgrepo.com/show/353564/cloudflare.svg">]()
 
 ****
-![](https://komarev.com/ghpvc/?usertitle=jeremiahiro)
+![](https://komarev.com/ghpvc/?username=jeremiahiro)
 
 [portfolio]: https://jeremiahiro.github.io
 [linkedin]: https://www.linkedin.com/in/jeremiahiro
