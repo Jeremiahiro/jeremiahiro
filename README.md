@@ -8,13 +8,15 @@ Nice to meet you!
 
 <br />
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="display: flex; flex-direction: column; justify-content: space-between;">
-        <img align="center" src="https://github-readme-stats-mocha-iota-20.vercel.app/api?username=jeremiahiro&show_icons=true&theme=merko&hide=contribs,issues,stars&show=prs_merged,prs_merged_percentage,reviews" />
-        <img align="center" src="https://github-readme-stats-mocha-iota-20.vercel.app/api/wakatime?username=@jeremiahiro&theme=merko&hide=toml&display_format=percent" />
-    </div>
-    <img align="center" src="https://github-readme-stats-mocha-iota-20.vercel.app/api/top-langs/?username=jeremiahiro&theme=merko&exclude_repo=github-readme-stats,jeremiahiro.github.io&layout=pie&hide=less&langs_count=8" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-mocha-iota-20.vercel.app/api?username=jeremiahiro&show_icons=true&theme=merko&hide=contribs,issues,stars&show=prs_merged,prs_merged_percentage,reviews" width="45%" />
+  <img src="https://github-readme-stats-mocha-iota-20.vercel.app/api/wakatime?username=@jeremiahiro&theme=merko&hide=toml&display_format=percent" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-mocha-iota-20.vercel.app/api/top-langs/?username=jeremiahiro&theme=merko&exclude_repo=github-readme-stats,jeremiahiro.github.io&layout=pie&hide=less&langs_count=8" width="45%" />
+</p>
+
 
 
 ### 🚀 Software Engineer | Mentor | Servant Leader
