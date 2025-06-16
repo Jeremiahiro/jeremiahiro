@@ -15,7 +15,7 @@ Nice to meet you!
 ![](https://github-readme-stats-mocha-iota-20.vercel.app/api/top-langs/?username=jeremiahiro&theme=merko&exclude_repo=github-readme-stats,jeremiahiro.github.io&layout=compact&hide=less&langs_count=8&card_width=500)
 
 ### 🚀 Software Engineer | Mentor | Servant Leader
-With 7+ years of experience, I specialize in building scalable web solutions, high-performance applications, and seamless digital experiences.
+With 8 years of experience, I specialize in building scalable web solutions, high-performance applications, and seamless digital experiences.
 
 💡 What I've been Up To
 - 🔧 Building scalable and high-performance web applications
