@@ -2,11 +2,11 @@
 
 Senior full-stack engineer in London. I design and ship eCommerce and SaaS platforms: APIs, storefronts, and the delivery systems around them.
 
-8+ years, since 2018. TypeScript, React, PHP/Laravel, Node, Shopify, AWS.
+Nearly a decade, since 2017. TypeScript, Astro, React, and Tailwind. Ecommerce: Commerce Layer, Shopify, Sanity, DatoCMS, and Bunny.net.
 
-- Cut infrastructure cost by 20% at Tronweb while the platform grew.
-- Built the backend for a multi-channel eCommerce platform serving 500+ retailers at Bigly Sales.
-- Currently shipping eCommerce and SaaS platforms at Studio Rotate in London.
+- Senior Software Engineer at Huge in London.
+- Shipped eCommerce and SaaS platforms at Rotate° in London, 2024–2026.
+- Cut server costs by 20% at Tronweb while the platform grew.
 
 Vice President of Operations, 100 Black Men of London.
 
