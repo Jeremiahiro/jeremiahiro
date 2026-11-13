@@ -7,9 +7,9 @@ Nice to meet you.
 Senior software engineer in London. I design and ship eCommerce and SaaS platforms: APIs, storefronts, and the delivery systems around them. Nearly a decade of that, since 2017.
 
 - Senior Software Engineer at Huge.
-- Shipped eCommerce and SaaS platforms at Rotate° in London, 2024–2026.
+- At Rotate° (2024–2026), engineer on Big Green Egg's headless storefront, and built core features of Orbit, later used on client storefronts including Yardsale, plus Astro and API work for Tracksmith and other retail brands.
 - Cut server costs by 20% at Tronweb while the platform grew.
-- Vice President of Operations, 100 Black Men of London.
+- Vice President of Operations, 100 Black Men of London, and a mentor there since March 2023.
 
 These days that means TypeScript, Astro, React, and Tailwind, with Commerce Layer, Shopify, Sanity, DatoCMS, and Bunny.net.
 
