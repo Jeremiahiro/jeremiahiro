@@ -4,7 +4,7 @@ Nice to meet you.
 
 ## About me
 
-Senior software engineer in London. I design and ship eCommerce and SaaS platforms: APIs, storefronts, and the delivery systems around them. Nearly a decade of that, since 2017.
+Senior software engineer in London. I design and ship eCommerce and SaaS platforms: APIs, storefronts, and the delivery systems around them. Nearly a decade of that.
 
 - Senior Software Engineer at Huge.
 - At Rotate° (2024–2026), engineer on Big Green Egg's headless storefront, and built core features of Orbit, later used on client storefronts including Yardsale, plus Astro and API work for Tracksmith and other retail brands.
